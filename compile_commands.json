@@ -1,0 +1,24 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-g",
+            "-Wall",
+            "SQLiteCppDatabaseExample.cpp"
+        ],
+        "directory": "/data/home/wenquanshan/MyProjects/SQLite_Demo",
+        "file": "SQLiteCppDatabaseExample.cpp"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "SQLiteCDatabaseOperations.c"
+        ],
+        "directory": "/data/home/wenquanshan/MyProjects/SQLite_Demo",
+        "file": "SQLiteCDatabaseOperations.c"
+    }
+]
