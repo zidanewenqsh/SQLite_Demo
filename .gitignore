@@ -1,5 +1,6 @@
 .cache/
 *.db
+*.db-journal
 # Prerequisites
 *.d
 

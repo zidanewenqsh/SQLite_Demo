@@ -5,7 +5,7 @@
     ],
     "clangd.arguments": [
         "--background-index",
-        "--compile-commands-dir=${workspaceFolder}/build",
+        "--compile-commands-dir=${workspaceFolder}",
         "--all-scopes-completion",
         "--completion-style=detailed",
         "--clang-tidy",
